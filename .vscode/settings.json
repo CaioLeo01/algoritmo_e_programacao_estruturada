@@ -36,6 +36,7 @@
   "C_Cpp_Runner.useAddressSanitizer": false,
   "C_Cpp.errorSquiggles": "enabled",
   "files.associations": {
-    "math.h": "c"
+    "math.h": "c",
+    "stdio.h": "c"
   }
 }
